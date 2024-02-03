@@ -7,3 +7,7 @@ Merge(
 		stoneTip3 = L"Will not support devices and weapons",
 	}
 )
+--[[ 
+	
+CC BY-NC-SA 4.0
+© 2024 by Papa Sasquatch (https://steamcommunity.com/id/papasasquatch/) ]]--

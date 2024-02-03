@@ -15,3 +15,7 @@ function UpdateEffect(self, effectTime, pos)
 	
 	return self
 end
+--[[ 
+	
+CC BY-NC-SA 4.0
+© 2024 by Papa Sasquatch (https://steamcommunity.com/id/papasasquatch/) ]]--

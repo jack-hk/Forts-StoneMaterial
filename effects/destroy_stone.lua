@@ -154,3 +154,7 @@ Effects =
         Priority = 191,
     },
 }
+--[[ 
+	
+CC BY-NC-SA 4.0
+© 2024 by Papa Sasquatch (https://steamcommunity.com/id/papasasquatch/) ]]--

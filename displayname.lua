@@ -17,3 +17,7 @@ DisplayName =
 	['Hungarian'] = L"Konkrét", 
 	['Slovak'] = L"Kamenný Materiál",
 }
+--[[ 
+	
+CC BY-NC-SA 4.0
+© 2024 by Papa Sasquatch (https://steamcommunity.com/id/papasasquatch/) ]]--

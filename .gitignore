@@ -1,0 +1,5 @@
+
+*.log
+*.[log]
+itemversion.lua
+publishedfileid.lua
